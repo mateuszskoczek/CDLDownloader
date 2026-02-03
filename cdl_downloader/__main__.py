@@ -24,7 +24,6 @@ args = parser.parse_args()
 id = str(uuid.uuid1())
 directory = os.path.join(args.path, id)
 
-
 options = Options()
 if (args.headless):
     options.add_argument("--headless")
@@ -34,7 +33,6 @@ options.add_argument('--disable-dev-shm-usage')
 options.add_experimental_option("prefs", {"download.default_directory": directory,
                                              'download.prompt_for_download': False,
                                              'plugins.always_open_pdf_externally': True})
-
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 driver.get("https://ewyniki.cdl.pl/kl322-n/index.php?page=logowanie&barcodeLogin=true")
