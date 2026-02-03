@@ -43,6 +43,7 @@ def click(element):
     driver.execute_script("arguments[0].click();", element)
 
 
+
 barcode_textbox = driver.find_element(By.NAME, "barcode")
 pesel_textbox = driver.find_element(By.NAME, "pesel")
 submit_button = driver.find_element(By.CLASS_NAME, "loginButton")
