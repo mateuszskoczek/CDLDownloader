@@ -50,13 +50,13 @@ jobs:
         with:
           format: "tar.gz"
           name: cdl_downloader_${{steps.gitversion.outputs.SemVer}}
-          include: "./cdl_downloader"
+          root-directory: "cdl_downloader"
       - name: Create .ZIP archive
         uses: ksm2/archive-action@v1
         with:
           format: "zip"
           name: cdl_downloader_${{steps.gitversion.outputs.SemVer}}
-          include: "./cdl_downloader"
+          root-directory: "cdl_downloader"
       - name: Create Release
         uses: akkuman/gitea-release-action@v1
         with:
