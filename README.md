@@ -62,8 +62,10 @@ In case of success:
 {
     "success": true,
     "id": "e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0",
-    "fileName": "/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf",
+    "fileName": "TEST_FILE.pdf",
     "formattedDate": "2026.01.31",
     "resultTableHTML": "<table>...</table>"
 }
 ```
+
+With `--path /mnt/example/download_dir/` file will be saved under `/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf`
