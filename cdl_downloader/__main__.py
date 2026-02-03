@@ -37,6 +37,7 @@ options.add_experimental_option("prefs", {"download.default_directory": director
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 driver.get("https://ewyniki.cdl.pl/kl322-n/index.php?page=logowanie&barcodeLogin=true")
 
+
 def click(element):
     driver.execute_script("arguments[0].click();", element)
 
