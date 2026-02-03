@@ -100,5 +100,4 @@ print(json.dumps({
     "formattedDate": datetime.datetime.strptime(date, "%d-%m-%Y").strftime("%Y.%m.%d"),
     "resultTableHTML": result_table_html,
 }))
-
 sys.exit()
