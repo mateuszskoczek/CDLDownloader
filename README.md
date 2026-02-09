@@ -1,3 +1,5 @@
+<p align="center"><img src=".gitea/readme/icon.png"/></p>
+
 <h1 align="center">CDL Downloader</h1>
 
 <h3 align="center"><b>Automation script for downloading medical test results files from <a href="ewyniki.cdl.pl">ewyniki.cdl.pl</a></b></h3>
@@ -74,3 +76,7 @@ In case of success:
 ```
 
 With `--path /mnt/example/download_dir/` file will be saved under `/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf`
+
+## Attribution
+
+- Icon by <a href="icons8.com">Icons8</a>
