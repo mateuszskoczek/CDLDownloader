@@ -22,13 +22,13 @@
 You can also use `requirements.txt` file to install PIP dependencies
 
 ```
-pip install -r cdl_downloader/requirements.txt
+pip install -r cdl_downloader_x.x.x/requirements.txt
 ```
 
 ## Usage
 
 ```
-python cdl_downloader <pesel> <barcode>
+python cdl_downloader_x.x.x <pesel> <barcode>
 ```
 
 **Additional options:**
