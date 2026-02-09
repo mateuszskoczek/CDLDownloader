@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python cdl_downloader <pesel> <barcode>
+python cdl_downloader <pesel> <barcode> [additional_options]
 ```
 
 **Additional options:**
