@@ -10,8 +10,9 @@
 
 ## Features
 
+- Download medical test results files from <a href="ewyniki.cdl.pl">ewyniki.cdl.pl</a> automatically.
 - Headless mode - can be used entirely without graphical interface
-- Returns basic information after download - script returns basic data in JSON format, such as failure/success status and tests results as html table
+- Return basic information after download in JSON format, such as failure/success status and tests results as html table
 
 ## Installation
 
