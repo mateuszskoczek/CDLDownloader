@@ -11,7 +11,11 @@
 - Headless mode - can be used entirely without graphical interface
 - Returns basic information after download - script returns basic data in JSON format, such as failure/success status and tests results as html table
 
-## Requirements
+## Installation
+
+Download latest package version from <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/CDLDownloader/releases">Releases</a> tab, unpack, install requirements and you good to go
+
+**Requirements**
 
 - Chrome Driver installed
 - Python installed
