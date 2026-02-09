@@ -79,4 +79,8 @@ With `--path /mnt/example/download_dir/` file will be saved under `/mnt/example/
 
 ## Attribution
 
+You can copy this repository and create your own version of the app freely. However, it would be nice if you included this repository in the description to your repository or in README file.
+
+**Other sources:**
+
 - Icon by <a href="icons8.com">Icons8</a>
