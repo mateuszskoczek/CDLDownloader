@@ -76,7 +76,7 @@ In case of success:
 }
 ```
 
-With `--path /mnt/example/download_dir/` file will be saved under `/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf`
+With `--path /mnt/example/download_dir/` file will be saved as `/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf`
 
 ## Attribution
 
