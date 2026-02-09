@@ -14,6 +14,7 @@
 ## Requirements
 
 - Chrome Driver installed
+- Python installed
 - PIP packages:
     - `selenium`
     - `webdriver-manager`
