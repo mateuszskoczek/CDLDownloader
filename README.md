@@ -78,7 +78,7 @@ In case of success:
 
 With `--path /mnt/example/download_dir/` file will be saved as `/mnt/example/download_dir/e1ce9235-9c36-4b7a-b245-e2f1c3d3b1c0/TEST_FILE.pdf`
 
-## Attribution
+## Attribution and contribution
 
 This project is open source on MIT License, so you can just copy and upload again to your repository. But according to the license, you must include information about the original author. You can find license <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/CDLDownloader/src/branch/main/LICENSE">here</a>.
 
