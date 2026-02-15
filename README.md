@@ -8,6 +8,13 @@
 
 ---
 
+## Informations
+
+> [!Important]
+> **For Github users:**
+>
+> This is only mirror repository. All changes are first uploaded to the repository <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/CDLDownloader">here</a>. Releases are also published on original repository. However, Github repository handles issues and pull requests for better accessibility.
+
 ## Features
 
 - Download medical test results files from <a href="ewyniki.cdl.pl">ewyniki.cdl.pl</a> automatically.
